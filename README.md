@@ -1,6 +1,7 @@
-#Solution for a NChain-v0 of the environment that form part of OpenAI's Gym project.
+# Solution for a NChain-v0 of the environment that form part of OpenAI's Gym project.
 
-##Below you can find version packages what I used to build this project.
+## Below you can find version packages what I used to build this project.
+
 Name:                    Version:
 gym                       0.23.1
 gym-legacy-toytext        0.0.1
